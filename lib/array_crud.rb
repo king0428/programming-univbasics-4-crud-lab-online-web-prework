@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   some_colors=["green", "red", "blue", "yellow"]
-  some_colors
+  some_colors.push
 end
 
 def add_element_to_start_of_array(array, element)
